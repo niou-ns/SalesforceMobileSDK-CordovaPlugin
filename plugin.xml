@@ -32,7 +32,7 @@
   <!-- Specific versions of dependencies required by the Mobile SDK plugin -->
   <dependency id="cordova-plugin-whitelist" url="https://github.com/apache/cordova-plugin-whitelist" commit="1.2.0" />
   <dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device" commit="r1.0.1" />
-  <dependency id="phonegap-plugin-push" url="https://github.com/phonegap-build/PushPlugin" commit="2.5.0" />
+  <dependency id="com.phonegap.plugins.PushPlugin" url="https://github.com/phonegap-build/PushPlugin" commit="2.5.0" />
 
   <!-- ios -->
   <platform name="ios">
